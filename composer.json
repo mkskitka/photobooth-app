@@ -1,0 +1,7 @@
+{
+    "require": {
+         "vlucas/phpdotenv": "2.3.0",
+         "auth0/auth0-php": "~4.0"
+    },
+    "license": "MIT"
+}
