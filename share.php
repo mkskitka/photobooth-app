@@ -13,8 +13,7 @@
 		}
 
 		body { 
-			background-color: #ffffff;
-			background-image: linear-gradient(#333333, #666666); 
+			background-color: white;
 		}
 
 		#MainContainer {
