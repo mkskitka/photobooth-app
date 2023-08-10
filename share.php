@@ -49,6 +49,15 @@
 			color: black;
 		}
 
+		#kp_logo {
+			display: block;
+			position: relative;
+			bottom: 0px;
+			width:100%;
+			max-width: 1000px;
+			margin: 0 auto 0;
+		}
+
 
 
 	</style>
@@ -65,6 +74,9 @@
 		</div>
 
 		<div id="message">Press and hold on the image to save to your phone.</div>
+		<div id="img">
+			<img id="kp_logo" src="/photos/kp.jpg" width="100%" />
+		</div>
 
 
 		
