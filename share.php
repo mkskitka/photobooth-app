@@ -13,7 +13,7 @@
 		}
 
 		body { 
-			background-color: #CCCCCC;
+			background-color: #ffffff;
 			background-image: linear-gradient(#333333, #666666); 
 		}
 
@@ -21,9 +21,9 @@
 			display: block;
 			position: relative;
 			width: 95%;
-			max-width: 600px;
+			max-width: 1200px;
 			margin: 0 auto 0;
-			padding-top: 40px;
+			padding-top: 200px;
 
 		}
 
@@ -64,7 +64,8 @@
 			<img src="/photos/<?php echo $_GET['id']; ?>.jpg" width="100%" />
 		</div>
 
-		<div id="message">Please share with your friends and family. You can press and hold on the image to save to your phone.</div>
+		<div id="message">Press and hold on the image to save to your phone.</div>
+
 
 		
 
