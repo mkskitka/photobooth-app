@@ -40,7 +40,7 @@
 			display: block;
 			width: 100%;
 			max-width: 600px;
-			font-size: 2em;
+			font-size: 3em;
 			text-align: center;
 			margin: 0 auto 0;
 			margin-top: 40px;
@@ -50,12 +50,11 @@
 		}
 
 		#kp_logo {
-			display: block;
 			position: relative;
 			bottom: 0px;
-			width:100%;
+			width:90%;
 			max-width: 1000px;
-			margin: 0 auto 0;
+			margin: 5%
 		}
 
 
